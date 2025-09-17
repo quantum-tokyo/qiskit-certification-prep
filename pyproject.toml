@@ -1,0 +1,9 @@
+[project]
+name = "exam-prep"
+version = "0.1.0"
+description = "This repository provides preparation materials for obtaining a \"IBM Certified Quantum Computation using Qiskit v2.X Developer - Associate\"."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter-book>=2.0.0b3",
+]

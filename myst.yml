@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 491f705e-d467-44ae-833e-185f5b26586a
+  title: Qiskit v2.X developer certification exam prep
+  description: This repository provides preparation materials for obtaining a "IBM Certified Quantum Computation using Qiskit v2.X Developer - Associate".
+  # keywords: []
+  authors: 
+    - name: Daiki Murata
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
