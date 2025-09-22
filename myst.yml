@@ -13,4 +13,4 @@ site:
   template: book-theme
   options:
     favicon: quantum-tokyo-icon.ico
-  #   logo: site_logo.png
+    logo: quantum-tokyo-icon.jpg
