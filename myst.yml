@@ -7,8 +7,12 @@ project:
   # keywords: []
   authors: 
     - name: Daiki Murata
-  # github:
+      affiliation: Quantum Tokyo
+  github: https://github.com/quantum-tokyo/qiskit-certification-prep
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: README.md
+    - pattern: 'src/*.ipynb'
 site:
   template: book-theme
   options:
